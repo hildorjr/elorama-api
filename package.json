@@ -29,7 +29,7 @@
     "express": "^4.17.1",
     "helmet": "^3.23.3",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.9.24",
+    "mongoose": "^5.13.20",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.4",
     "simple-encryptor": "^4.0.0",
