@@ -33,7 +33,7 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.4",
     "simple-encryptor": "^4.0.0",
-    "swagger-jsdoc": "^4.0.0",
+    "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^4.1.4"
   },
   "devDependencies": {}
